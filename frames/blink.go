@@ -1,6 +1,6 @@
 package frames
 
-var Forrest = DefaultFrameType(blinkFrames)
+var Forrest = DefaultFrameType(BlinkFrames)
 
 var forrestFrames = []string{
 	`
